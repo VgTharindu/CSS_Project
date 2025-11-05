@@ -1,0 +1,32 @@
+h1{
+    text-align: center;
+    color: #29580f;
+    margin-top: 30px;
+}
+
+li{
+    list-style-type: disc;
+    color: #2d680e;
+    font-size: 17px;
+    margin-left: 15px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-weight: bold;
+}
+.content{
+    font-size: 16px;
+    color: black;
+    text-align: justify;
+    margin-left: 20px;
+}
+a{
+    color: #2d680e;
+    text-decoration: none;
+}
+.ba:hover{text-decoration: underline;}
+
+iframe{
+    width:  350px;
+    height: 200px;
+    margin-left: 35px;
+}

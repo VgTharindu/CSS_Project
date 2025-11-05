@@ -1,0 +1,52 @@
+.im1{
+    width: 100%;
+}
+
+.subc{
+    border: 1px solid #3f7124;
+    width: 418px;
+    height: 320px;
+    display: inline-block;
+    border-radius: 10px;
+    margin: 10px 10px 11px 11px;
+}
+#subc1{
+    position: absolute;
+    
+}
+#subc2{
+    position: absolute;
+    right: 8px;
+}
+.subc:hover{
+    background-color:  #91c973;
+}
+.theme{
+    font-size: 25px;
+    width: 385px;
+    height: 26px;
+    position: relative;
+    top: 30px;
+    left: 7px;
+    border-radius: 6px;
+    background-color: #589d32;
+    color: white;
+    padding-bottom: 4px;
+    padding-left: 20px;
+}
+
+.subim{
+    width: 150px;
+    margin-top: 5px;
+    margin-left: 8px;
+    margin-right: 8px;
+    float: left;
+}
+.para{
+    margin-top: 50px;
+    text-align: justify;
+    margin-left: 8px;
+    margin-right: 8px;
+    color: black;
+    font-size: 15px;
+}

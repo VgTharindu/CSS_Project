@@ -1,0 +1,142 @@
+.MN{
+    display: flex;
+}
+.register{
+    border: 1px solid #589d32;
+    width: 50%;
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.theme{
+    border: 1px solid #29610b;
+    width: 95%;
+    background-color: #317a09;
+    color: white;
+    font-size: 20px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.rgcontent{
+    margin-top: 30px;
+    margin-left: 25px;
+    margin-bottom: 20px;
+    color: #29610b;
+    font-size: 1pc;
+}
+
+span{
+    color: #29610b;
+}
+.in1{
+    color: #29610b;
+    border-color: #3a8611;
+    border-width: 0.1px;
+    width: 50%;
+    margin-left: 90px;
+}
+.in2{
+    color: #29610b;
+    border-color: #3a8611;
+    border-width: 0.1px;
+    width: 50%;
+    margin-left: 98px;
+}
+.in3{
+    color: #29610b;
+    border-color: #3a8611;
+    border-width: 0.1px;
+    width: 50%;
+    margin-left: 145px;
+}
+.in4{
+    margin-left: 140px;
+}
+.in6{
+    margin-left: 35px;
+}
+select{
+    color: #29610b;
+    border-color: #3a8611;
+    border-width: 0.1px;
+    width: 50%;
+    margin-left: 40px;
+}
+.in9{
+    color: #29610b;
+    border-color: #3a8611;
+    border-width: 0.1px;
+    width: 50%;
+    margin-left: 67px;
+}
+.in10{
+    color: #29610b;
+    border-color: #3a8611;
+    border-width: 0.1px;
+    width: 50%;
+    margin-left: 127px;
+}
+textarea{
+    color: #29610b;
+    border-color: #3a8611;
+    border-width: 0.1px;
+    width: 50%;
+    height: 90px;
+    margin-left: 120px; 
+}
+.in11,.in12{
+    border-color: #3a8611;
+    border-width: 0.1px;
+    background-color: #3a8611;
+    color: white;
+    width: 80px;
+    height: 30px;
+}
+.in11{
+    margin-left: 190px; 
+    margin-bottom: 50px;
+}
+
+.map{
+    border: 1px solid #589d32;
+    height: 300pt;
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+iframe{
+    width: 700px;
+    height: 400px;
+    border-radius: 10px;
+}
+.info{
+    border: 1px solid #589d32;
+    height: 200pt;
+    border-radius: 10px;
+    display: block;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.infosub{
+    border: 1px solid #29610b;
+    width: 96%;
+    background-color: #317a09;
+    color: white;
+    font-size: 23px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 15px;
+    margin-left: 12px;
+    margin-bottom: 20px;
+}
+.ins{
+    font-size: 15px;
+    font-weight: bold;
+    margin-left: 15px;
+    color: #317a09;
+}
+h4{
+    margin-left: 15px;
+    color: #589d32;
+    margin-top: 5px;
+}
